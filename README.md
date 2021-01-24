@@ -14,7 +14,7 @@ This repository is the official implementation of [Scribble-based Weakly Supervi
 ## Usage  
 run `python road_label_propagation.py`  
 ## Feedback  
-For questions and comments, feel free to contact [Yao WEI](weiyao@whu.edu.cn)
+For questions and comments, feel free to contact Yao WEI（email: weiyao@whu.edu.cn)
 ## Citation  
 If you find our work useful in your research, please cite:  
 `Yao Wei, and Shunping Ji. Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images. arXiv preprint arXiv:2010.13106 (2020)`  
