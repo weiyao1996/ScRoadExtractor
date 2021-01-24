@@ -5,7 +5,7 @@ This repository is the official implementation of [Scribble-based Weakly Supervi
 · numpy  
 · scikit_image  
 · opencv  
-· cython
+· cython  
 · PyMaxflow  
 · scipy  
 · torch  
