@@ -19,4 +19,4 @@ For questions and comments, feel free to contact Yao WEI（email: weiyao@whu.edu
 If you find our work useful in your research, please cite:  
 `Yao Wei, and Shunping Ji. Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images. arXiv preprint arXiv:2010.13106 (2020)`  
   
-***We are still cleaning up the source code, this repo is incomplete now. Please wait for a couple of days. Thanks!-- Edited Jan. 23 2021***
+***The whole source code is expected to be uploaded in April. Please wait for a couple of days. Thanks!-- Edited Apr. 27 2021***
