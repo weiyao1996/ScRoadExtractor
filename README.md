@@ -4,12 +4,13 @@ This repository is the official implementation of Scribble-based Weakly Supervis
 ![image](https://github.com/weiyao1996/weiyao1996.github.io/blob/master/img/xxxx.png)  
 
 ## Dependencies  
-· Python == 3.6.7
-· Numpy == 1.16.3
-· opencv == 4.1.0
-· PyMaxflow == 1.2.12
-· scipy  == 1.2.1
+· Python == 3.6.7  
+· Numpy == 1.16.3  
+· opencv == 4.1.0  
+· PyMaxflow == 1.2.12  
+· scipy  == 1.2.1  
 · Pytorch == 1.1.0  
+
 ## Structure  
   
 ## Usage  
