@@ -24,8 +24,12 @@ Run `road_label_propagation.py` to derive proposal masks.
 3) DBNet  
 Run `train.py` for training and run `test.py` for testing. 
 
+## Dataset
+The Wuhan dataset will be available at http://gpcv.whu.edu.cn/data/data.html  in May:)  
+
 ## Feedback  
-For questions and comments, feel free to contact Yao WEI（email: weiyao@whu.edu.cn)
+For questions and comments, feel free to contact Yao WEI（email: weiyao@whu.edu.cn)  
+
 ## Citation  
 If you find our work useful in your research, please cite:  
 `Yao Wei, and Shunping Ji. Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing 2021.`  
