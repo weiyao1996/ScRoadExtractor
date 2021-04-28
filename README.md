@@ -10,17 +10,18 @@ This repository is the official implementation of Scribble-based Weakly Supervis
 · PyMaxflow == 1.2.12  
 · scipy  == 1.2.1  
 · Pytorch == 1.1.0  
+· Cython == 0.29.13
 
 ## Structure  
   
 ## Usage  
-1) Download dataset and prepare for the code
+1) Download dataset and prepare for the code  
 The scribbles can be obtained from OpenStreetMap centerlines, GPS traces, or manually annotation through ArcGIS or other software. Also, you can generate skeletonized road lines by thinning road segmentation maps (skimage.morphology.thin).
 With respect to the implementation of HED Boundary detector, you can refer to the folder `boundary_detect`. To generate HED masks, download the pre-trained model [network-bsds500.pytorch] by `download.bash` and run `run.py`. We also provide the pre-trained model [network-bsds500.pytorch] using the link below.
 https://pan.baidu.com/s/1AMNnmo7YAk1X3_m8Ky1arw (pwd:0HED)
-2) Road label propagation
+2) Road label propagation  
 Run `road_label_propagation.py` to derive proposal masks.
-3) DBNet
+3) DBNet  
 Run `train.py` for training and run `test.py` for testing. 
 
 ## Feedback  
