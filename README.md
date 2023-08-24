@@ -1,7 +1,7 @@
 # ScRoadExtractor
 This repository is the official implementation of Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images (TGRS 2021)  
 [[arxiv](https://arxiv.org/abs/2010.13106)];[[paper](https://ieeexplore.ieee.org/document/9372390)]
-![image](https://github.com/weiyao1996/weiyao1996.github.io/blob/master/img/xxxx.png)  
+![image](https://github.com/weiyao1996/weiyao1996.github.io/blob/master/img/tgrs2021.png)  
 
 ## Dependencies  
 · Pytorch == 1.1.0  
