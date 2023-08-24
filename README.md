@@ -33,10 +33,3 @@ For questions and comments, feel free to contact Yao WEI（email: weiyao@whu.edu
 ## Citation  
 If you find our work useful in your research, please cite:  
 `Yao Wei, and Shunping Ji. Scribble-based Weakly Supervised Deep Learning for Road Surface Extraction from Remote Sensing Images. IEEE Transactions on Geoscience and Remote Sensing 2021.`  
-
-## Feedback  
-For questions and comments, feel free to create issues or contact Yao（email: yao.wei@utwente.nl)  
-
-## Citation  
-If you find our work useful in your research, please cite:  
-`Yao Wei, George Vosselman and Michael Ying Yang. Flow-based GAN for 3D Point Cloud Generation from a Single Image. 33rd British Machine Vision Conference 2022.`  
